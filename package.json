@@ -1,0 +1,22 @@
+{
+  "name": "cs_discord_bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.4.1",
+    "hangul-js": "^0.2.6",
+    "korean-text-analytics": "0.0.7",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2",
+    "socket.io-client": "^3.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
